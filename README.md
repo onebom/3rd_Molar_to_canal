@@ -18,7 +18,6 @@ stage1:
 ![stage1](./src/stage1.png)   
 stage2:   
 ![stage2](./src/stage2.png) 
-
-**attention feature map**
+stage1 output: attention feature map
 ![stage1ouput](./src/stage1output.png)  
 
